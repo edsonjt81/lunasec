@@ -6614,7 +6614,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],
       [
         "jsonwebtoken",
-        "npm:8.5.1"
+        "npm:9.0.0"
       ],
       [
         "jsprim",
@@ -6869,36 +6869,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         "npm:4.4.2"
       ],
       [
-        "lodash.includes",
-        "npm:4.3.0"
-      ],
-      [
-        "lodash.isboolean",
-        "npm:3.0.3"
-      ],
-      [
         "lodash.isequal",
         "npm:4.5.0"
-      ],
-      [
-        "lodash.isinteger",
-        "npm:4.0.4"
       ],
       [
         "lodash.ismatch",
         "npm:4.4.0"
       ],
       [
-        "lodash.isnumber",
-        "npm:3.0.3"
-      ],
-      [
         "lodash.isplainobject",
         "npm:4.0.6"
-      ],
-      [
-        "lodash.isstring",
-        "npm:4.0.1"
       ],
       [
         "lodash.kebabcase",
@@ -25075,7 +25055,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["express-session", "npm:1.17.2"],
             ["graphql", "npm:15.8.0"],
             ["graphql-passport", "virtual:7773970250d4ed180d2b9dc95007dad568ae7d882c98dfdaf2970e734b5b2cb2991e170dbdedc5cb6627347fdc48f16724a25650895e8502880b11781e2f40f3#npm:0.6.4"],
-            ["jsonwebtoken", "npm:8.5.1"],
+            ["jsonwebtoken", "npm:9.0.0"],
             ["nodemon", "npm:2.0.15"],
             ["passport", "npm:0.4.1"],
             ["passport-json", "npm:1.2.0"],
@@ -47444,20 +47424,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["jsonwebtoken", [
-        ["npm:8.5.1", {
-          "packageLocation": "./.yarn/cache/jsonwebtoken-npm-8.5.1-c007670b76-93c9e3f23c.zip/node_modules/jsonwebtoken/",
+        ["npm:9.0.0", {
+          "packageLocation": "./.yarn/cache/jsonwebtoken-npm-9.0.0-36fd1594c0-b9181cecf9.zip/node_modules/jsonwebtoken/",
           "packageDependencies": [
-            ["jsonwebtoken", "npm:8.5.1"],
+            ["jsonwebtoken", "npm:9.0.0"],
             ["jws", "npm:3.2.2"],
-            ["lodash.includes", "npm:4.3.0"],
-            ["lodash.isboolean", "npm:3.0.3"],
-            ["lodash.isinteger", "npm:4.0.4"],
-            ["lodash.isnumber", "npm:3.0.3"],
-            ["lodash.isplainobject", "npm:4.0.6"],
-            ["lodash.isstring", "npm:4.0.1"],
-            ["lodash.once", "npm:4.1.1"],
+            ["lodash", "npm:4.17.21"],
             ["ms", "npm:2.1.3"],
-            ["semver", "npm:5.7.1"]
+            ["semver", "npm:7.3.8"]
           ],
           "linkType": "HARD",
         }]
@@ -48399,38 +48373,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD",
         }]
       ]],
-      ["lodash.includes", [
-        ["npm:4.3.0", {
-          "packageLocation": "./.yarn/cache/lodash.includes-npm-4.3.0-3a2f6fa22c-71092c1305.zip/node_modules/lodash.includes/",
-          "packageDependencies": [
-            ["lodash.includes", "npm:4.3.0"]
-          ],
-          "linkType": "HARD",
-        }]
-      ]],
-      ["lodash.isboolean", [
-        ["npm:3.0.3", {
-          "packageLocation": "./.yarn/cache/lodash.isboolean-npm-3.0.3-b575b41488-b70068b4a8.zip/node_modules/lodash.isboolean/",
-          "packageDependencies": [
-            ["lodash.isboolean", "npm:3.0.3"]
-          ],
-          "linkType": "HARD",
-        }]
-      ]],
       ["lodash.isequal", [
         ["npm:4.5.0", {
           "packageLocation": "./.yarn/cache/lodash.isequal-npm-4.5.0-f8b0f64d63-da27515dc5.zip/node_modules/lodash.isequal/",
           "packageDependencies": [
             ["lodash.isequal", "npm:4.5.0"]
-          ],
-          "linkType": "HARD",
-        }]
-      ]],
-      ["lodash.isinteger", [
-        ["npm:4.0.4", {
-          "packageLocation": "./.yarn/cache/lodash.isinteger-npm-4.0.4-42add9f4e1-6034821b3f.zip/node_modules/lodash.isinteger/",
-          "packageDependencies": [
-            ["lodash.isinteger", "npm:4.0.4"]
           ],
           "linkType": "HARD",
         }]
@@ -48444,29 +48391,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD",
         }]
       ]],
-      ["lodash.isnumber", [
-        ["npm:3.0.3", {
-          "packageLocation": "./.yarn/cache/lodash.isnumber-npm-3.0.3-b3bb5f7347-913784275b.zip/node_modules/lodash.isnumber/",
-          "packageDependencies": [
-            ["lodash.isnumber", "npm:3.0.3"]
-          ],
-          "linkType": "HARD",
-        }]
-      ]],
       ["lodash.isplainobject", [
         ["npm:4.0.6", {
           "packageLocation": "./.yarn/cache/lodash.isplainobject-npm-4.0.6-d73937742f-29c6351f28.zip/node_modules/lodash.isplainobject/",
           "packageDependencies": [
             ["lodash.isplainobject", "npm:4.0.6"]
-          ],
-          "linkType": "HARD",
-        }]
-      ]],
-      ["lodash.isstring", [
-        ["npm:4.0.1", {
-          "packageLocation": "./.yarn/cache/lodash.isstring-npm-4.0.1-721fee791c-eaac87ae96.zip/node_modules/lodash.isstring/",
-          "packageDependencies": [
-            ["lodash.isstring", "npm:4.0.1"]
           ],
           "linkType": "HARD",
         }]
@@ -57615,6 +57544,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/semver-npm-7.3.5-618cf5db6a-5eafe6102b.zip/node_modules/semver/",
           "packageDependencies": [
             ["semver", "npm:7.3.5"],
+            ["lru-cache", "npm:6.0.0"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:7.3.8", {
+          "packageLocation": "./.yarn/cache/semver-npm-7.3.8-25a996cb4f-ba9c7cbbf2.zip/node_modules/semver/",
+          "packageDependencies": [
+            ["semver", "npm:7.3.8"],
             ["lru-cache", "npm:6.0.0"]
           ],
           "linkType": "HARD",
