@@ -7994,7 +7994,7 @@ __metadata:
     express-openapi-validate: ^0.6.1
     express-openapi-validator: ^4.12.15
     graphql: ^15.5.1
-    jose: 3.12.3
+    jose: 3.20.4
     js-yaml: ^4.1.0
     typescript: ^4.2.0
     uuid: ^8.3.2
@@ -25573,10 +25573,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jose@npm:3.12.3":
-  version: 3.12.3
-  resolution: "jose@npm:3.12.3"
-  checksum: f568d8660281bb8a3158c6e3a728e906d4e733045a47836d4c341a836655cca6d897faf7816e37c7b0a2b11e535a3c4caa18249e84cb6fdbdc1fde033401c326
+"jose@npm:3.20.4":
+  version: 3.20.4
+  resolution: "jose@npm:3.20.4"
+  checksum: 5c9ed344e80e4d1281a9d93854af296105903b2eaec451812d77217e0b5f043acb691bda8c75d62c22612bd1d664ee2a83e1679258021fe8d94e0366582ec5a0
   languageName: node
   linkType: hard
 
