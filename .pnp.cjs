@@ -6486,7 +6486,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],
       [
         "jose",
-        "npm:3.12.3"
+        "npm:3.20.4"
       ],
       [
         "js-beautify",
@@ -25137,7 +25137,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["express-openapi-validate", "npm:0.6.1"],
             ["express-openapi-validator", "npm:4.13.4"],
             ["graphql", "npm:15.8.0"],
-            ["jose", "npm:3.12.3"],
+            ["jose", "npm:3.20.4"],
             ["js-yaml", "npm:4.1.0"],
             ["typescript", "patch:typescript@npm%3A4.5.4#~builtin<compat/typescript>::version=4.5.4&hash=493e53"],
             ["uuid", "npm:8.3.2"]
@@ -46948,10 +46948,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["jose", [
-        ["npm:3.12.3", {
-          "packageLocation": "./.yarn/cache/jose-npm-3.12.3-d75e95c644-f568d86602.zip/node_modules/jose/",
+        ["npm:3.20.4", {
+          "packageLocation": "./.yarn/cache/jose-npm-3.20.4-7361d0498d-5c9ed344e8.zip/node_modules/jose/",
           "packageDependencies": [
-            ["jose", "npm:3.12.3"]
+            ["jose", "npm:3.20.4"]
           ],
           "linkType": "HARD",
         }]
